@@ -128,8 +128,9 @@ I am an aspiring **Data Scientist** with strong foundations in **Data Analytics,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanka30it-crypto&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanka30it-crypto&show_icons=true&count_private=true&include_all_commits=true" />
 </p>
+
 
 ---
 
