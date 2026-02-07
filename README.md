@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyanka</h1>
+<h1 align="center">Hi, I'm Priyanka</h1>
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Analytics to AI Journey</h3>
 
 ---
