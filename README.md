@@ -1,144 +1,104 @@
-<h1 align="center">Hi, I'm Priyanka</h1>
-<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Analytics to AI Journey</h3>
+<h1 align="center">Hi 👋, I'm Priyanka</h1>
+<h3 align="center">MSc Mathematics | IIT Delhi | Aspiring Data Scientist & Machine Learning Enthusiast</h3>
 
 ---
 
 ## 👩‍💻 About Me
 
-I am an aspiring **Data Scientist** with strong foundations in **Data Analytics, Statistics, and Machine Learning**.
-
-🔍 Passionate about solving real-world business problems using data-driven and predictive approaches  
-📊 Experienced in exploratory data analysis and statistical inference  
-🤖 Currently focusing on **Machine Learning model building and evaluation**  
-📚 Continuously learning advanced ML concepts and real-world applications  
+🎓 MSc in Mathematics from **IIT Delhi**  
+📊 Strong foundation in **Probability, Statistics, Linear Algebra, and Mathematical Modeling**  
+🤖 Currently building expertise in **Machine Learning and Predictive Analytics**  
+🔍 Passionate about solving real-world business problems using data-driven approaches  
+📚 Building end-to-end Data Science and Machine Learning projects  
 
 ---
 
-## 🧠 Current Learning Focus
+## 🧠 Core Strengths
 
-- Supervised Machine Learning Algorithms  
-- Model Evaluation & Performance Optimization  
-- Feature Engineering Techniques  
-- Applied Statistics for Machine Learning  
-- End-to-End ML Project Development  
+✔ Mathematical Modeling  
+✔ Statistical Analysis & Hypothesis Testing  
+✔ Exploratory Data Analysis (EDA)  
+✔ Machine Learning Model Development  
+✔ Business Insight Generation  
+✔ Data Storytelling  
+
+---
+
+## 🎓 Academic Background
+
+**MSc Mathematics — IIT Delhi**
+
+Focused Areas:
+- Probability & Statistics  
+- Linear Algebra  
+- Optimization Techniques  
+- Mathematical Modeling  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming
-- Python
-- SQL
+### 👨‍💻 Programming & Databases
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
 
 ---
 
 ### 📊 Data Analysis & Visualization
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Tableau
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+</p>
 
 ---
 
 ### 🤖 Machine Learning
-- Scikit-learn
-- Regression Models
-- Classification Models
-- Hypothesis Testing
-- Statistical Inference
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
 
 ---
 
-### 🗄️ Tools & Platforms
-- Jupyter Notebook
-- Google Colab
-- MySQL
-
----
-
-## 📂 Machine Learning & Analytics Projects
-
----
+## 📂 Featured Projects
 
 ### 🎓 Graduate Admission Prediction (Machine Learning)
 
-✔ Built predictive models to estimate admission probability  
-✔ Applied regression algorithms  
-✔ Performed model evaluation and performance comparison  
+🔹 Built regression-based predictive models  
+🔹 Performed model evaluation and performance comparison  
+🔹 Applied feature importance analysis  
 
-🔗 Project Link  
 👉 https://github.com/priyanka30it-crypto/Graduate-Admission-Prediction
 
 ---
 
-### 🚲 Yulu Demand Analysis (Statistical & ML Foundation)
+### 🚲 Yulu Demand Analysis (Statistical Inference)
 
-✔ Performed hypothesis testing to identify demand drivers  
-✔ Applied statistical inference techniques  
-✔ Derived business recommendations  
+🔹 Conducted hypothesis testing to identify demand drivers  
+🔹 Performed deep exploratory data analysis  
+🔹 Generated business recommendations  
 
-🔗 Project Link  
 👉 https://github.com/priyanka30it-crypto/Yulu-Hypothesis-Testing
 
 ---
 
 ### 🛍️ Walmart Customer Spending Analysis
 
-✔ Conducted EDA and statistical analysis  
-✔ Identified key customer behavior patterns  
-✔ Built strong business storytelling insights  
+🔹 Customer segmentation and behavioral analysis  
+🔹 Retail trend insights using EDA and statistics  
+🔹 Business-focused storytelling  
 
-🔗 Project Link  
 👉 https://github.com/priyanka30it-crypto/Walmart-Customer-Spending-Analysis-using-EDA-Statistical-Inference
 
 ---
 
 ### 🛒 Target Brazil E-Commerce SQL Analysis
 
-✔ Performed complex SQL-based business analysis  
-✔ Extracted customer and sales insights from relational datasets  
+🔹 Complex SQL querying for business insights  
+🔹 Customer purchasing pattern analysis  
+🔹 Sales performance evaluation  
 
-🔗 Project Link  
-👉 https://github.com/priyanka30it-crypto/Target-Brazil-E-Commerce-SQL-Analysis
-
----
-
-### 🌍 Global Child Malnutrition Dashboard (Tableau)
-
-✔ Built interactive visualization dashboards  
-✔ Analyzed global health and inequality trends  
-
-🔗 Tableau Dashboard  
-👉 https://github.com/priyanka30it-crypto/Global-Child-Malnutrition-Analysis
-
----
-
-## 📈 My Data Science Learning Roadmap
-
-✔ Data Cleaning & EDA  
-✔ Statistical Analysis  
-✔ Machine Learning Fundamentals  
-⬜ Advanced ML Algorithms  
-⬜ Model Deployment  
-⬜ Deep Learning (Future Goal)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanka30it-crypto&show_icons=true&count_private=true&include_all_commits=true" />
-</p>
-
-
----
-
-## 🤝 Connect With Me
-
-💼 LinkedIn: https://www.linkedin.com/in/priyanka--yadav--/ 
-📧 Email: priyanka30it@gmail.com
-
----
-
-⭐ Always curious about how data can power intelligent decision-making
+👉 https://github.com/priyanka30it-crypto/Target-B
