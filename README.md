@@ -71,7 +71,7 @@ Focused Areas:
 🔹 Performed model evaluation and performance comparison  
 🔹 Applied feature importance analysis  
 
-👉 https://github.com/priyanka30it-crypto/Graduate-Admission-Prediction
+👉 https://github.com/priyanka30it-crypto/Graduate-Admission-Prediction--ML
 
 ---
 
@@ -81,7 +81,7 @@ Focused Areas:
 🔹 Performed deep exploratory data analysis  
 🔹 Generated business recommendations  
 
-👉 https://github.com/priyanka30it-crypto/Yulu-Hypothesis-Testing
+👉 https://github.com/priyanka30it-crypto/Yulu_Bike_Demand-_Analysis
 
 ---
 
@@ -101,4 +101,4 @@ Focused Areas:
 🔹 Customer purchasing pattern analysis  
 🔹 Sales performance evaluation  
 
-👉 https://github.com/priyanka30it-crypto/Target-B
+👉 https://github.com/priyanka30it-crypto/Target-Brazil-E-Commerce-SQL-Analysis
